@@ -1,0 +1,5 @@
+HTML : index.HTML
+CSS  : style.CSS
+JS   : script.js
+
+It is Simon game fully developed using JavaScript as a backend.
